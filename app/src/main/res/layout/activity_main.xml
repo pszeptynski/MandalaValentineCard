@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="pl.carpecodicem.mandalavalentinecard.MainActivity">
+
+
+    <ImageView android:src="@drawable/mandala"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY" />
+
+    <TextView android:text="Be Mine"
+        android:padding="8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="48sp"
+        android:fontFamily="cursive"
+        android:textStyle="bold"
+        android:textColor="#cc0000"
+        android:id="@+id/textView" />
+
+    <TextView android:text="Valentine!"
+        android:padding="8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="48sp"
+        android:fontFamily="cursive"
+        android:textStyle="bold"
+        android:textColor="#ff0000"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"/>
+
+
+</RelativeLayout>
