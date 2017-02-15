@@ -24,5 +24,5 @@ It's hard to call it an app as it's mostly written in XML and Android Studio too
 
 ## Screenshot
 
-![app screenshot] (MandalaValentineCardScreenshot.png)
+[app screenshot] (MandalaValentineCardScreenshot.png)
 
