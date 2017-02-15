@@ -22,3 +22,7 @@ and wholly visible at the same time. I played with some settings until it was ri
 
 It's hard to call it an app as it's mostly written in XML and Android Studio took care of the rest but it's just a beginning, anyway.
 
+## Screenshot
+
+![app screenshot] ("MandalaValentineCardScreenshot.png")
+
